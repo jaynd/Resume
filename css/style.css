@@ -1,0 +1,21 @@
+#body {
+    margin: 0;
+    background-color: #E4F9F5;
+}
+
+#canvas {
+    position: absolute;
+
+}
+
+#header {
+    background-color: #bde0fe;
+}
+
+#myName {
+    font-family: Sacramento, serif;
+}
+
+.skills {
+    box-shadow: inset 5px 0 5px -5px #29627e;
+}
